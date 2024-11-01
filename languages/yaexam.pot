@@ -1,0 +1,1306 @@
+# Copyright (C) 2020 YaExam project
+# This file is distributed under the same license as the YaExam project package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YaExam project\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-yaexam-doing.php:26
+msgid "Sorry! You have not permession do this exam"
+msgstr ""
+
+#: includes/class-yaexam-doing.php:39
+msgid "Sorry! You can not do this exam"
+msgstr ""
+
+#: includes/class-yaexam-emails.php:27, includes/class-yaexam-emails.php:36, includes/admin/class-yaexam-admin-notices.php:100
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:108
+msgid "First Name"
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:109
+msgid "Last Name"
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:110, templates/myaccount/form-register.php:17
+msgid "Email address"
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:115
+msgid "is a required field."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:123, includes/yaexam-user-functions.php:319
+msgid "This email address is already registered."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:121, includes/yaexam-user-functions.php:317
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:132, includes/yaexam-user-functions.php:336
+msgid "This username is already registered."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:142
+msgid "New passwords do not match."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:139
+msgid "Please re-enter your password."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:174
+msgid "Account details changed successfully."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:252, includes/class-yaexam-form-handler.php:256, includes/class-yaexam-form-handler.php:260, includes/class-yaexam-form-handler.php:269, includes/class-yaexam-form-handler.php:278
+msgid "Error"
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:256
+msgid "Username is required."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:260
+msgid "Password is required."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:269
+msgid "A user could not be found with this email address."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:278
+msgid "Check your email and click on the activation link."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:302
+msgid "You are now logged in as <strong>%s</strong>"
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:344
+msgid "Please enter your password."
+msgstr ""
+
+#: includes/class-yaexam-form-handler.php:348
+msgid "Passwords do not match."
+msgstr ""
+
+#: includes/class-yaexam-install.php:121
+msgid "Monthly"
+msgstr ""
+
+#: includes/class-yaexam-install.php:171
+msgid "YaExam Manager"
+msgstr ""
+
+#: includes/class-yaexam-install.php:417
+msgctxt "Page slug"
+msgid "exams"
+msgstr ""
+
+#: includes/class-yaexam-install.php:418
+msgctxt "Page title"
+msgid "Exams"
+msgstr ""
+
+#: includes/class-yaexam-install.php:422
+msgctxt "Page slug"
+msgid "yaexam-account"
+msgstr ""
+
+#: includes/class-yaexam-install.php:423
+msgctxt "Page title"
+msgid "My Account"
+msgstr ""
+
+#: includes/class-yaexam-install.php:427
+msgctxt "Page slug"
+msgid "yaexam-register"
+msgstr ""
+
+#: includes/class-yaexam-install.php:428
+msgctxt "Page title"
+msgid "Register"
+msgstr ""
+
+#: includes/class-yaexam-install.php:432
+msgctxt "Page slug"
+msgid "yaexam-login"
+msgstr ""
+
+#: includes/class-yaexam-install.php:433
+msgctxt "Page title"
+msgid "Login"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:46, includes/class-yaexam-post-type-exam.php:48, includes/widgets/class-yaexam-widget-exam-categories.php:30, includes/widgets/class-yaexam-widget-exam-categories.php:34
+msgid "Exam Categories"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:49
+msgid "Exam Category"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:50
+msgctxt "Admin menu name"
+msgid "Categories"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:51
+msgid "Search Exam Categories"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:52
+msgid "All Exam Categories"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:53
+msgid "Parent Exam Category"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:54
+msgid "Edit Exam Category"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:55
+msgid "Update Exam Category"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:56
+msgid "Add New Exam Category"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:80, includes/class-yaexam-post-type-exam.php:82
+msgid "Exam Tags"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:83
+msgid "Exam Tag"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:84
+msgctxt "Admin menu name"
+msgid "Tags"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:85
+msgid "Search Exam Tags"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:86
+msgid "All Exam Tags"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:87
+msgid "Edit Exam Tag"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:88
+msgid "Update Exam Tag"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:89
+msgid "Add New Exam Tag"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:90
+msgid "Popular Exam Tags"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:91
+msgid "Separate Exam Tags with commas"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:92
+msgid "Add or remove Exam Tags"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:93
+msgid "Choose from the most used Exam tags"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:94
+msgid "No Exam Tags found"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:150, includes/widgets/class-yaexam-widget-exams.php:13, includes/widgets/class-yaexam-widget-exams.php:17
+msgid "Exams"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:151, includes/admin/views/html-admin-results.php:24
+msgid "Exam"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:152
+msgctxt "Admin menu name"
+msgid "Exams"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:153
+msgid "Add Exam"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:154
+msgid "Add New Exam"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:155, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:168
+msgid "Edit"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:156
+msgid "Edit Exam"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:157
+msgid "New Exam"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:158, includes/class-yaexam-post-type-exam.php:159
+msgid "View Exam"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:160
+msgid "Search Exams"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:161
+msgid "No Exams found"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:162
+msgid "No Exams found in trash"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:163
+msgid "Parent Exam"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:164
+msgid "Exam Image"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:165
+msgid "Set exam image"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:166
+msgid "Remove exam image"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:167
+msgid "Use as exam image"
+msgstr ""
+
+#: includes/class-yaexam-post-type-exam.php:169
+msgid "This is where you can add new exams."
+msgstr ""
+
+#: includes/yaexam-exam-functions.php:457, includes/admin/views/html-admin-user-certificates.php:38
+msgid "Guest"
+msgstr ""
+
+#: includes/yaexam-exam-functions.php:622
+msgid "Every Users"
+msgstr ""
+
+#: includes/yaexam-exam-functions.php:623
+msgid "Private"
+msgstr ""
+
+#: includes/yaexam-exam-functions.php:624
+msgid "Assigned Users"
+msgstr ""
+
+#: includes/yaexam-exam-functions.php:625
+msgid "Assigned Groups"
+msgstr ""
+
+#: includes/yaexam-formatting-functions.php:157, includes/admin/yaexam-admin-functions.php:223
+msgid "None"
+msgstr ""
+
+#: includes/yaexam-question-functions.php:783, includes/admin/class-yaexam-admin-questions.php:387
+msgid "Single choice"
+msgstr ""
+
+#: includes/yaexam-question-functions.php:784, includes/admin/class-yaexam-admin-questions.php:388
+msgid "Multiple choices"
+msgstr ""
+
+#: includes/yaexam-question-functions.php:785
+msgid "Fill in the blank"
+msgstr ""
+
+#: includes/yaexam-question-functions.php:786
+msgid "Item match"
+msgstr ""
+
+#: includes/yaexam-question-functions.php:787
+msgid "Group match"
+msgstr ""
+
+#: includes/yaexam-question-functions.php:788
+msgid "Order"
+msgstr ""
+
+#: includes/yaexam-question-functions.php:789
+msgid "Guess Word"
+msgstr ""
+
+#: includes/yaexam-question-functions.php:790
+msgid "Keywords"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:226, includes/admin/settings/class-yaexam-settings-general.php:109
+msgid "Default sorting"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:227, includes/admin/settings/class-yaexam-settings-general.php:110
+msgid "Sort by newness"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:228, includes/admin/settings/class-yaexam-settings-general.php:111
+msgid "Sort by duration: low to high"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:229, includes/admin/settings/class-yaexam-settings-general.php:112
+msgid "Sort by duration: high to low"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:302, templates/content-widget-test-filters-results.php:8, templates/myaccount/view-result.php:37, includes/admin/views/html-admin-result.php:66
+msgid "Detail"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:321
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:324
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:558, includes/admin/class-yaexam-admin-post-types.php:40, templates/myaccount/view-result.php:23, templates/myaccount/view-results.php:22, templates/single-exam/result.php:26, includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:34, includes/admin/views/html-admin-dashboard.php:80, includes/admin/views/html-admin-result.php:37
+msgid "Duration"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:562, includes/admin/class-yaexam-admin-post-types.php:41, includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:35, includes/admin/views/html-admin-result.php:17
+msgid "Attempt"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:566, includes/admin/class-yaexam-admin-menus.php:46, includes/admin/class-yaexam-admin-menus.php:47, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:74, includes/admin/views/html-admin-question-categories.php:5, includes/admin/views/html-admin-question-category.php:5, includes/admin/views/html-admin-question-import.php:4, includes/admin/views/html-admin-question.php:4, includes/admin/views/html-admin-questions.php:5, includes/admin/views/html-admin-questions.php:11
+msgid "Questions"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:578, includes/yaexam-template-functions.php:851
+msgid "Rating"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:597
+msgid "Corrected Times"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:598
+msgid "Max Round"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:614
+msgid "Playing"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:614
+msgid "Correcting all questions"
+msgstr ""
+
+#: includes/yaexam-template-functions.php:784, templates/content-single-test-ranking.php:14, templates/myaccount/view-result.php:22, templates/myaccount/view-results.php:21, templates/single-exam/ranking.php:17, templates/single-exam/result.php:25, includes/admin/views/html-admin-dashboard.php:79, includes/admin/views/html-admin-question.php:70, includes/admin/views/html-admin-questions.php:43, includes/admin/views/html-admin-result.php:40, includes/admin/views/html-admin-results.php:25
+msgid "Score"
+msgstr ""
+
+#: includes/yaexam-user-functions.php:325
+msgid "This email is empty."
+msgstr ""
+
+#: includes/yaexam-user-functions.php:342
+msgid "This username is empty."
+msgstr ""
+
+#: includes/yaexam-user-functions.php:483, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:79
+msgid "Select All"
+msgstr ""
+
+#: includes/yaexam-widget-functions.php:21
+msgid "yaexam-left-sidebar"
+msgstr ""
+
+#: includes/yaexam-widget-functions.php:22
+msgid "YaExam Left Sidebar"
+msgstr ""
+
+#: includes/yaexam-widget-functions.php:30
+msgid "yaexam-right-sidebar"
+msgstr ""
+
+#: includes/yaexam-widget-functions.php:31
+msgid "YaExam Right Sidebar"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:17, templates/single-exam/result.php:48
+msgid "Question"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:70, templates/single-exam/result.php:169
+msgid "PREVIOUS"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:72, templates/single-exam/result.php:170
+msgid "NEXT"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:107, templates/single-exam/result.php:216
+msgid "Time"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:121, templates/single-exam/result.php:247
+msgid "Summary"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:127
+msgid "Answered"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:132
+msgid "Not Answered"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:137, templates/single-exam/result.php:263
+msgid "Not Visited"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:144
+msgid "FINISH"
+msgstr ""
+
+#: templates/content-single-exam-doing-normal.php:147
+msgid "SAVE LATER"
+msgstr ""
+
+#: templates/content-single-test-ranking.php:12, templates/single-exam/ranking.php:9
+msgid "Ranking"
+msgstr ""
+
+#: templates/content-single-test-ranking.php:13, includes/admin/views/html-admin-dashboard.php:78, includes/admin/views/html-admin-results.php:22
+msgid "User"
+msgstr ""
+
+#: includes/abstracts/abstract-yaexam-widget.php:265
+msgid "All Categories"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-menus.php:33, includes/admin/class-yaexam-admin-menus.php:34
+msgid "YaExam"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-menus.php:40, includes/admin/class-yaexam-admin-menus.php:41, includes/admin/views/html-admin-dashboard.php:9
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-menus.php:52, includes/admin/class-yaexam-admin-menus.php:53
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-menus.php:58, includes/admin/class-yaexam-admin-menus.php:59, includes/admin/views/html-admin-extensions.php:19
+msgid "Extensions"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-menus.php:64, includes/admin/class-yaexam-admin-menus.php:65, includes/admin/views/html-admin-results.php:4, templates/myaccount/tabs_title/view_results.php:4
+msgid "Results"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-meta-boxes.php:43
+msgid "Question Manager"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-meta-boxes.php:44
+msgid "Setting"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-notices.php:96, includes/admin/class-yaexam-admin-settings.php:36
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-post-types.php:39, includes/widgets/class-yaexam-widget-exam-categories.php:35, includes/widgets/class-yaexam-widget-exams.php:18, templates/myaccount/view-results.php:20, templates/myaccount/view-save-laters.php:18, includes/admin/views/html-admin-dashboard.php:44, includes/admin/views/html-admin-question-import.php:60, includes/admin/views/html-admin-questions.php:37
+msgid "Title"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-post-types.php:42, includes/admin/views/html-admin-question-categories.php:6, includes/admin/views/html-admin-question-categories.php:10, includes/admin/views/html-admin-question-category.php:6, includes/admin/views/html-admin-question-import.php:5, includes/admin/views/html-admin-question.php:5, includes/admin/views/html-admin-questions.php:6
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-post-types.php:43
+msgid "Result"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-post-types.php:83, templates/myaccount/view-results.php:43
+msgid "View All"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-settings.php:47
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/admin/class-yaexam-admin-settings.php:478
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin.php:78, templates/single-exam/ranking.php:14, templates/single-exam/result.php:24, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:173
+msgid "Name"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin.php:79, includes/admin/views/html-admin-questions.php:39
+msgid "Type"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin.php:80, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:178
+msgid "Total"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin.php:81
+msgid "Selected"
+msgstr ""
+
+#: includes/admin/class-yaexam-admin.php:82
+msgid "When you confirm the data will be saved, users playing this exam will be stop for saving!"
+msgstr ""
+
+#: includes/admin/yaexam-admin-functions.php:421
+msgid "Select a category"
+msgstr ""
+
+#: includes/admin/yaexam-admin-functions.php:439
+msgid "Select a exam"
+msgstr ""
+
+#: includes/admin/yaexam-admin-functions.php:526, includes/admin/yaexam-admin-functions.php:572, includes/admin/yaexam-admin-functions.php:579
+msgid "ON"
+msgstr ""
+
+#: includes/admin/yaexam-admin-functions.php:527, includes/admin/yaexam-admin-functions.php:530, includes/admin/yaexam-admin-functions.php:573, includes/admin/yaexam-admin-functions.php:576
+msgid "OFF"
+msgstr ""
+
+#: includes/libraries/yaexam-background-process.php:419
+msgid "Every %d Minutes"
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-login.php:29
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-my-account.php:134
+msgid "Remove success"
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-my-account.php:166
+msgid "Your password has been reset."
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-my-account.php:166
+msgid "Log in"
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-my-account.php:179
+msgid "Enter a username or e-mail address."
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-my-account.php:195, includes/shortcodes/class-yaexam-shortcode-my-account.php:200
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-my-account.php:213
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-my-account.php:238
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: includes/shortcodes/class-yaexam-shortcode-my-account.php:248, includes/shortcodes/class-yaexam-shortcode-my-account.php:253, includes/shortcodes/class-yaexam-shortcode-my-account.php:269
+msgid "Invalid key"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exam-categories.php:28
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exam-categories.php:40
+msgid "Show test counts"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exam-categories.php:45
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exam-categories.php:50
+msgid "Only show children of the current category"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exam-categories.php:55
+msgid "Hide empty categories"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exam-categories.php:174
+msgid "No categories exist."
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:11
+msgid "Display a list of your products on your site."
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:23, includes/admin/views/html-admin-question.php:65, includes/admin/views/html-admin-questions.php:41
+msgid "Category"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:31
+msgid "Number of exams to show"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:36
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:38
+msgid "All Exams"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:39
+msgid "Featured Exams"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:45
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:47, templates/myaccount/view-result.php:24, templates/myaccount/view-results.php:23, includes/admin/views/html-admin-dashboard.php:45, includes/admin/views/html-admin-dashboard.php:82
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:48
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:54
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:56
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:57
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:63
+msgid "Display Thumbnail"
+msgstr ""
+
+#: includes/widgets/class-yaexam-widget-exams.php:68
+msgid "Display Date"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:17
+msgid "First name"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:26
+msgid "Last name"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:35, includes/admin/settings/class-yaexam-settings-email.php:17
+msgid "Email"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:44, templates/myaccount/form-register.php:12
+msgid "Username"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:53
+msgid "New Password"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:57
+msgid "Leave blank to leave unchanged"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:62
+msgid "Confirm New Password"
+msgstr ""
+
+#: templates/myaccount/form-edit-account.php:73, includes/admin/views/html-admin-settings.php:33
+msgid "Save changes"
+msgstr ""
+
+#: templates/myaccount/form-login.php:24, templates/myaccount/form-lost-password.php:12
+msgid "Username or email"
+msgstr ""
+
+#: templates/myaccount/form-login.php:28, templates/myaccount/form-lost-password.php:19, templates/myaccount/form-register.php:22, templates/myaccount/form-reset-password.php:14
+msgid "Password"
+msgstr ""
+
+#: templates/myaccount/form-login.php:31
+msgid "Lost your password?"
+msgstr ""
+
+#: templates/myaccount/form-login.php:37
+msgid "Remember me"
+msgstr ""
+
+#: templates/myaccount/form-login.php:44, templates/myaccount/view-activation.php:17
+msgid "Login"
+msgstr ""
+
+#: templates/myaccount/form-login.php:46, templates/myaccount/form-register.php:30
+msgid "Register"
+msgstr ""
+
+#: templates/myaccount/form-lost-password.php:24, templates/myaccount/form-reset-password.php:21
+msgid "Password Again"
+msgstr ""
+
+#: templates/myaccount/form-lost-password.php:37, templates/myaccount/form-reset-password.php:7, includes/admin/settings/class-yaexam-settings-email.php:135
+msgid "Reset Password"
+msgstr ""
+
+#: templates/myaccount/form-reset-password.php:31
+msgid "Reset"
+msgstr ""
+
+#: templates/myaccount/tabs-start.php:18
+msgid "Logout"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:41
+msgid "Account registered successfully!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:42
+msgid "Check your email for activate your account!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:44, templates/myaccount/view-activation.php:35, templates/myaccount/view-activation.php:26
+msgid "Home"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:32
+msgid "Your account is not activated!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:33
+msgid "You need to access your email and click to the activate link"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:23
+msgid "Your activation key is not valid!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:24
+msgid "You need to access your email and click to the valid activate link"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:14
+msgid "Your account is activated!"
+msgstr ""
+
+#: templates/myaccount/view-activation.php:15
+msgid "You could click this link for Login"
+msgstr ""
+
+#: templates/myaccount/view-save-laters.php:32
+msgid "Play"
+msgstr ""
+
+#: templates/myaccount/view-save-laters.php:33, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:21, includes/admin/views/html-admin-question-categories.php:51, includes/admin/views/html-admin-questions.php:25, includes/admin/views/html-admin-result.php:25
+msgid "Remove"
+msgstr ""
+
+#: templates/single-exam/ranking.php:15
+msgid "Rank"
+msgstr ""
+
+#: templates/single-exam/ranking.php:16
+msgid "Percent"
+msgstr ""
+
+#: templates/single-exam/result.php:19
+msgid "Your Ranking"
+msgstr ""
+
+#: templates/single-exam/result.php:171
+msgid "PLAY AGAIN"
+msgstr ""
+
+#: templates/single-exam/result.php:190
+msgid "Your Score"
+msgstr ""
+
+#: templates/single-exam/result.php:253, includes/admin/views/html-admin-answer-data-multiple-tab.php:29, includes/admin/views/html-admin-answer-data-single-tab.php:29
+msgid "Correct"
+msgstr ""
+
+#: templates/single-exam/result.php:258
+msgid "Wrong"
+msgstr ""
+
+#: templates/single-exam/review.php:12
+msgid "Comments"
+msgstr ""
+
+#: templates/single-exam/start.php:26
+msgid "LOGIN/REGISTER"
+msgstr ""
+
+#: templates/single-exam/start.php:15
+msgid "START"
+msgstr ""
+
+#: templates/single-exam/start.php:18
+msgid "CONTINUE EXAM"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:17
+msgid "Assign Questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:18
+msgid "Assign Question Category"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:20
+msgid "Sort"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:64, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:122, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:158
+msgid "Loading..."
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:80
+msgid "Clear All"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:115, includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:151
+msgid "Add Question"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:134
+msgid "Question Categories"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-question-data.php:187
+msgid "Sort Questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:28
+msgid "Publish for"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:30
+msgid "Login Users"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:36, templates/myaccount/tabs_title/view_save_laters.php:4
+msgid "Save Later"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:37
+msgid "Email User Result"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:42
+msgid "Show Result"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:43
+msgid "Show Ranking"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:44
+msgid "Shuffle Questions"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:45
+msgid "Shuffle Answers"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:53, includes/admin/settings/class-yaexam-settings-email.php:85, includes/admin/settings/class-yaexam-settings-general.php:17
+msgid "General"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-yaexam-meta-box-exam-setting-data.php:56
+msgid "Display"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-email.php:37
+msgid "New Result"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-email.php:40, includes/admin/settings/class-yaexam-settings-email.php:102, includes/admin/settings/class-yaexam-settings-email.php:138
+msgid "Subject"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-email.php:49, includes/admin/settings/class-yaexam-settings-email.php:111, includes/admin/settings/class-yaexam-settings-email.php:147
+msgid "Header"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-email.php:59, includes/admin/settings/class-yaexam-settings-email.php:121, includes/admin/settings/class-yaexam-settings-email.php:157, includes/admin/views/html-admin-answer-data-multiple-tab.php:30, includes/admin/views/html-admin-answer-data-single-tab.php:30
+msgid "Content"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-email.php:74
+msgid "CC Admin"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-email.php:75
+msgid "admin_1@abc.com,admin_2@abc.com"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-email.php:88
+msgid "Footer"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-email.php:99
+msgid "User Registered"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:35
+msgid "General Options"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:38
+msgid "Archive Page"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:39, includes/admin/settings/class-yaexam-settings-general.php:50, includes/admin/settings/class-yaexam-settings-general.php:61, includes/admin/settings/class-yaexam-settings-general.php:72
+msgid "Page contents:"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:49
+msgid "My Account Page"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:60
+msgid "Register Page"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:71
+msgid "Login Page"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:82
+msgid "Remove data when uninstall"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:84
+msgid "Remove Data"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:91
+msgid "Display Options"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:94
+msgid "Exams per Page"
+msgstr ""
+
+#: includes/admin/settings/class-yaexam-settings-general.php:104
+msgid "Default Order"
+msgstr ""
+
+#: includes/admin/views/html-admin-answer-data-multiple-tab.php:12, includes/admin/views/html-admin-answer-data-single-tab.php:13
+msgid "Columns"
+msgstr ""
+
+#: includes/admin/views/html-admin-answer-data-multiple-tab.php:71, includes/admin/views/html-admin-answer-data-single-tab.php:69
+msgid "Add answer"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:15
+msgid "Total Exams"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:24
+msgid "Total Questions"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:38
+msgid "New Tests"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:59, includes/admin/views/html-admin-dashboard.php:99
+msgid "NO DATA"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:72
+msgid "Lastest Results"
+msgstr ""
+
+#: includes/admin/views/html-admin-dashboard.php:81
+msgid "Tests"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:49
+msgid "From"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:66, includes/admin/views/html-admin-extensions.php:110
+msgid "Download Plugin"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:62, includes/admin/views/html-admin-extensions.php:106
+msgid "Deactivate Plugin"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:58, includes/admin/views/html-admin-extensions.php:102
+msgid "Active Plugin"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:70, includes/admin/views/html-admin-extensions.php:114
+msgid "Demo"
+msgstr ""
+
+#: includes/admin/views/html-admin-extensions.php:135
+msgid "Add more"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-categories.php:7, includes/admin/views/html-admin-question-category.php:7, includes/admin/views/html-admin-question-import.php:6, includes/admin/views/html-admin-question.php:6, includes/admin/views/html-admin-questions.php:7
+msgid "Importing"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-categories.php:58
+msgid "Create Category"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-category.php:14
+msgid "New Category"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-category.php:12
+msgid "Edit Category"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-category.php:25
+msgid "Save"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:9
+msgid "Importing Questions"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:15
+msgid "Hi there! Upload a Excel, CSV file containing questions to import the contents into your question bank. Choose a file to upload, then click \"Upload file and import\"."
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:17
+msgid "Click here to download a sample"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:19
+msgid "How to using options in file:"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:23
+msgid "Type Question column: single or multiple"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:24
+msgid "Categories column: the id of question categories is separate by ',': 1,2,3"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:25
+msgid "Order Type column: the id of order type question"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:27
+msgid "0 : None"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:28
+msgid "1 : A,B,C,D"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:29
+msgid "2 : 1,2,3,4"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:30
+msgid "3 : I,II,III,IV"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:33
+msgid "Correct Answer column: the index of correct answer start from 0"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:41
+msgid "Choose a file from your computer:"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:45
+msgid "Maximum size:"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:52
+msgid "Upload file and import"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:61
+msgid "Status"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:71
+msgid "Success"
+msgstr ""
+
+#: includes/admin/views/html-admin-question-import.php:72
+msgid "Fail"
+msgstr ""
+
+#: includes/admin/views/html-admin-question.php:10
+msgid "Edit Question"
+msgstr ""
+
+#: includes/admin/views/html-admin-question.php:26
+msgid "Answer Type"
+msgstr ""
+
+#: includes/admin/views/html-admin-question.php:54
+msgid "Publish"
+msgstr ""
+
+#: includes/admin/views/html-admin-question.php:75
+msgid "Video, Audio URL"
+msgstr ""
+
+#: includes/admin/views/html-admin-question.php:76
+msgid "Add video"
+msgstr ""
+
+#: includes/admin/views/html-admin-question.php:80
+msgid "Update"
+msgstr ""
+
+#: includes/admin/views/html-admin-question.php:81
+msgid "Move to trash"
+msgstr ""
+
+#: includes/admin/views/html-admin-questions.php:13
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/views/html-admin-questions.php:23, includes/admin/views/html-admin-results.php:14
+msgid "Filter"
+msgstr ""
+
+#: includes/admin/views/html-admin-questions.php:90, includes/admin/views/html-admin-result.php:73, includes/admin/views/html-admin-results.php:73
+msgid "No Data"
+msgstr ""
+
+#: includes/admin/views/html-admin-questions.php:103
+msgid "questions"
+msgstr ""
+
+#: includes/admin/views/html-admin-result.php:4
+msgid "The result of "
+msgstr ""
+
+#: includes/admin/views/html-admin-result.php:12
+msgid "Update Success!"
+msgstr ""
+
+#: includes/admin/views/html-admin-result.php:20
+msgid "Update Attempt"
+msgstr ""
+
+#: includes/admin/views/html-admin-result.php:41, includes/admin/views/html-admin-results.php:26
+msgid "Corrects"
+msgstr ""
+
+#: includes/admin/views/html-admin-result.php:42, includes/admin/views/html-admin-results.php:27
+msgid "Wrongs"
+msgstr ""
+
+#: includes/admin/views/html-admin-result.php:43, includes/admin/views/html-admin-results.php:28
+msgid "Not Visit"
+msgstr ""
+
+#: includes/admin/views/html-admin-result.php:44, includes/admin/views/html-admin-results.php:29
+msgid "Time Start"
+msgstr ""
+
+#: includes/admin/views/html-admin-result.php:45, includes/admin/views/html-admin-results.php:30
+msgid "Time End"
+msgstr ""
+
+#: includes/admin/views/html-admin-results.php:66
+msgid "Profile"
+msgstr ""
+
+#: includes/admin/views/html-admin-user-certificates.php:60
+msgid "Find Certificates"
+msgstr ""
+
+#: includes/admin/views/html-admin-user-certificates.php:52
+msgid "Download Certificate"
+msgstr ""
+
+#: includes/admin/views/html-notice-install.php:12
+msgid "<strong>Welcome to YaExam</strong> &#8211; You&lsquo;re almost ready to start making exams :)"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:12, includes/admin/views/html-notice-updating.php:12
+msgid "YaExam Data Update"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:12
+msgid "We need to update your database to the latest version."
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:13
+msgid "Run the updater"
+msgstr ""
+
+#: includes/admin/views/html-notice-update.php:17
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: includes/admin/views/html-notice-updated.php:12
+msgid "Dismiss"
+msgstr ""
+
+#: includes/admin/views/html-notice-updated.php:14
+msgid "YaExam data update complete. Thank you for updating to the latest version!"
+msgstr ""
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Your database is being updated in the background."
+msgstr ""
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Taking a while? Click here to run it now."
+msgstr ""
+
+#: templates/myaccount/tabs_title/view_edit_account.php:4
+msgid "Edit Account"
+msgstr ""
